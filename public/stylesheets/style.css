@@ -1,0 +1,16 @@
+body {
+  background-image: url("/images/cloud_pattern.jpg");
+  background-repeat: repeat;
+  font: 14px "Miriam Libre", Helvetica, Arial, sans-serif;
+  padding: 50px; }
+
+a {
+  color: #00B7FF; }
+
+#layout {
+  background-color: white;
+  margin: 0 auto;
+  padding: 20px;
+  width: 80vw; }
+
+/*# sourceMappingURL=style.css.map */
