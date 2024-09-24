@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# render_nodejs_2a6mcsi
-=======
 # ESGI - Cloud course - Render Node.js app
 
 To do this exercise, you must read carefully the given documentations and rules.
