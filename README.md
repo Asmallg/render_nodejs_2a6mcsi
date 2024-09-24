@@ -15,4 +15,3 @@ To do this exercise, you must read carefully the given documentations and rules.
 - Documentation:
     - https://render.com/docs/web-services
     - https://render.com/docs/deploy-node-express-app
->>>>>>> master
